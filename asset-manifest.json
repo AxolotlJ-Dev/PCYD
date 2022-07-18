@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.de07b73c.css",
-    "main.js": "/static/js/main.e2cc20b6.js",
-    "static/media/llaveroA.jpg": "/static/media/llaveroA.c4cb700637921a47b7a4.jpg",
-    "static/media/tarjetasP.jpg": "/static/media/tarjetasP.0ba0d3b0e2649b4526ae.jpg",
-    "static/media/vasoF.jpg": "/static/media/vasoF.52c6029f9d50bbf59afe.jpg",
-    "static/media/neonA.jpg": "/static/media/neonA.c20bb71d6a16acb55d2e.jpg",
-    "static/media/Port.jpg": "/static/media/Port.18be97ac22aed6824541.jpg",
-    "static/media/termoS.jpg": "/static/media/termoS.2f0d62f6e0820c99b194.jpg",
-    "static/media/vasoB.jpg": "/static/media/vasoB.04a1ab171e1b97f3db3e.jpg",
-    "index.html": "/index.html",
-    "main.de07b73c.css.map": "/static/css/main.de07b73c.css.map",
-    "main.e2cc20b6.js.map": "/static/js/main.e2cc20b6.js.map"
+    "main.css": "/PCYD/static/css/main.de07b73c.css",
+    "main.js": "/PCYD/static/js/main.70d3fefa.js",
+    "static/media/llaveroA.jpg": "/PCYD/static/media/llaveroA.c4cb700637921a47b7a4.jpg",
+    "static/media/tarjetasP.jpg": "/PCYD/static/media/tarjetasP.0ba0d3b0e2649b4526ae.jpg",
+    "static/media/vasoF.jpg": "/PCYD/static/media/vasoF.52c6029f9d50bbf59afe.jpg",
+    "static/media/neonA.jpg": "/PCYD/static/media/neonA.c20bb71d6a16acb55d2e.jpg",
+    "static/media/Port.jpg": "/PCYD/static/media/Port.18be97ac22aed6824541.jpg",
+    "static/media/termoS.jpg": "/PCYD/static/media/termoS.2f0d62f6e0820c99b194.jpg",
+    "static/media/vasoB.jpg": "/PCYD/static/media/vasoB.04a1ab171e1b97f3db3e.jpg",
+    "index.html": "/PCYD/index.html",
+    "main.de07b73c.css.map": "/PCYD/static/css/main.de07b73c.css.map",
+    "main.70d3fefa.js.map": "/PCYD/static/js/main.70d3fefa.js.map"
   },
   "entrypoints": [
     "static/css/main.de07b73c.css",
-    "static/js/main.e2cc20b6.js"
+    "static/js/main.70d3fefa.js"
   ]
 }
