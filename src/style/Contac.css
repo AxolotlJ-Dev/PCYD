@@ -1,0 +1,54 @@
+
+
+ a{
+     text-decoration: none;
+     color: #fff;
+ }
+
+.Facebook :hover{
+    color: #4267B2;
+}
+
+.Facebook svg :hover  {
+  color: #fff;
+}
+
+
+
+.Instagram :hover  {
+  background-image: linear-gradient(60deg, #405de6, #5851db, #833ab4, #e1306c, #fd1d1d, #fcaf45, #ffff00);
+  background-clip: text;
+  color: transparent;
+}
+
+path{
+    color: #ffffff;
+}
+
+
+.Instagram svg :hover  {
+  color: #fff;
+}
+
+
+.WhatsApp :hover{
+  color: #25D366;
+} 
+
+.WhatsApp svg :hover  {
+  color: #fff;
+}
+
+
+
+@media screen and ( max-width: 767px ) {
+  .info{
+    margin-top: 25px;
+    text-align: center;
+  }
+
+  .linkR{
+    text-align: center;
+  }
+
+}
