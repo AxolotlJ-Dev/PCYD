@@ -5,6 +5,8 @@
 }
 
 html,body{
+  overflow: auto;
+  overflow-x: hidden;
   background-color: #121110;
   color: #f0f8ff;
 }
